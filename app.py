@@ -13,7 +13,7 @@ import plotly.graph_objects as go
 st.set_page_config(page_title="K-means Visualization App", page_icon="python.png", layout="wide")
 
 st.markdown("""
-**Autor:** Cainã Max Couto da Silva  
+**Author:** Cainã Max Couto da Silva  
 **LinkedIn:** [cmcouto-silva](https://www.linkedin.com/in/cmcouto-silva/)
 """)
 
