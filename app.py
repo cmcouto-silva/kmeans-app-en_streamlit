@@ -58,7 +58,7 @@ with st.beta_expander(label="Description and explanation"):
 	st.markdown("""
 K-means is an unsupervised machine learning algorithm aiming to identify clusters (i.e., groups) in the dataset. Like any other unsupervised model, its objective is to **identify patterns in the data** to interpret them. Therefore, **it's not suitable for prediction analysis**. It's commonly used for customer segmentation.
 
-This model takes only numerical variables to cluster the observations in "K" clusters, where K means the number of clusters. K should be pre-defined before running the model. There are techniques that help us to identify the best number of groups in our data, like the elbow and the silhouette methods.
+This model takes **only numerical variables** to cluster the observations in "K" clusters, where K means the number of clusters. K should be pre-defined before running the model. There are techniques that help us to identify the best number of groups in our data, like the elbow and the silhouette methods.
 
 For categorical variables, we can use K-modes, a variation of K-means also aiming to cluster our data, but using categorical variables instead. Since it's not the objective of this showcase, I'm leaving [this link](https://www.analyticsvidhya.com/blog/2021/06/kmodes-clustering-algorithm-for-categorical-data/) with a further explanation about this model.
 
