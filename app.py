@@ -98,8 +98,8 @@ _**Code availability:**_
 
 The scripts with the step-by-step implementation of K-means and this are available at GitHub:
 
-- [App repository](https://github.com/cmcouto-silva/kmeans-app-pt_streamlit)
-- [Step-by-step K-means' script (no scikit-learn)](https://github.com/cmcouto-silva/kmeans-app-pt_streamlit/blob/main/kmeans.py)
+- [App repository](https://github.com/cmcouto-silva/kmeans-app-en_streamlit)
+- [Step-by-step K-means' script (no scikit-learn)](https://github.com/cmcouto-silva/kmeans-app-en_streamlit/blob/main/kmeans.py)
 
 &nbsp;
 """)
